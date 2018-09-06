@@ -1,5 +1,7 @@
 package com.ddriop.git;
 
+import java.util.Map;
+
 public class MyMessageFactory implements IMyMessageFactory {
 	
 	@Override

@@ -1,6 +1,5 @@
 package com.ddriop.git;
 
-import MyAbstractMessage;
 
 public class MyMessageSms extends MyAbstractMessage {
 	@Override
